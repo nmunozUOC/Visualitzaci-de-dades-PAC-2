@@ -9,6 +9,7 @@ Cada visualització utilitza un dataset diferent i està implementada en **R** o
 - **Fitxer de codi:** 'CIRCLE_PACKING_.R'
 - **Llenguatge:** R  
 - **Dataset utilitzat:** Video Game Sales
+
   Pots descarregar-lo des de la següent URL:  
   [Descarrega el dataset aquí](https://www.kaggle.com/datasets/gregorut/videogamesales)  
 
@@ -16,6 +17,7 @@ Cada visualització utilitza un dataset diferent i està implementada en **R** o
 - **Fitxer de codi:** 'sunburst_ridgeline_chart.ipynb' 
 - **Llenguatge:** Python  
 - **Dataset utilitzat:** Superstore Dataset
+
   Pots descarregar-lo des de la següent URL:  
   [Descarrega el dataset aquí](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
 
@@ -25,6 +27,7 @@ Cada visualització utilitza un dataset diferent i està implementada en **R** o
 - **Llenguatge:** Python  
 - **Dataset utilitzat:** Flights  
   **Nota:** Aquest dataset **no s’ha pogut pujar al repositori** per la seva mida.  
+
   Pots descarregar-lo des de la següent URL:  
   [Descarrega el dataset aquí](https://www.kaggle.com/datasets/matinsajadi/flights)  
 
